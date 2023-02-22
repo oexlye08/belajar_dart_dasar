@@ -1,3 +1,6 @@
+/// Komentar dokumentasi
+/// Komentar dokumentasi adalah komentar yang digunakan untuk mendokumentasikan kode program.
+
 void main() {
   // Komentar satu baris
   print("Hello World!");
